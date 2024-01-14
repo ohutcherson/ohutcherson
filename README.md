@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @ohutcherson
+- Hello 👋
+- https://www.linkedin.com/in/ohutcherson/
+- ohutcherson9@gmail.com
+
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Identity and Access Management
 
